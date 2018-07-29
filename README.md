@@ -13,7 +13,9 @@ Paramiko
 1. getcmd : 
 
 Decription: To get the output of linux commands executed on remote servers easily and quickly.
+
 Arguments: 
+
 a. hostname(required): Supply the server name/Ip from which you need to command results.
 b. username(required): usernamre to login to the server.
 c. password(required): password corresponding to the username supplied. 
