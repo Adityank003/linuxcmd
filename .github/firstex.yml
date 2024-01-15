@@ -1,0 +1,13 @@
+name: Aditya-linux
+on: push
+
+jobs: 
+    first_job:
+        runs-on: ubuntu-latest
+        steps:
+          -  name: Welcome
+             run: echo "first workflow job"
+          
+          -  name: List files
+             run: ls
+             
