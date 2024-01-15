@@ -1,5 +1,5 @@
 # linuxcmd
-A simple tool to get linux command(s) results from remote servers
+A simple tool to get linux command(s) results from remote servers -- linux
 
 This is a simple extention of some useful python scripts on linux as a package, developed in order to make things easier and faster. 
 
